@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #ff4e50;
+    background-color: #fcbde1;
     color: white;
     text-align: center;
     padding: 20px 10px;
@@ -34,7 +34,7 @@ main {
 }
 
 .menu a {
-    background-color: #4A90E2;
+    background-color: #ff4fb3;
     color: white;
     padding: 10px 20px;
     border-radius: 8px;
@@ -44,11 +44,11 @@ main {
 }
 
 .menu a:hover {
-    background-color: #357ABD;
+    background-color: #fa7dd4;
 }
 
 footer {
-    background-color: #ff4e50;
+    background-color: #fcbde1;
     color: white;
     text-align: center;
     padding: 10px;

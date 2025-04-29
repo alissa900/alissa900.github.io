@@ -34,7 +34,7 @@ main {
 }
 
 .menu a {
-    background-color: #ffe096;
+    background-color: #2f4890;
     color: white;
     padding: 10px 20px;
     border-radius: 8px;
@@ -44,7 +44,7 @@ main {
 }
 
 .menu a:hover {
-    background-color: #ffe096;
+    background-color: #2f4890;
 }
 
 footer {
